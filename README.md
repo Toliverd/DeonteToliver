@@ -12,7 +12,7 @@
 
 - <b>Virtual Private Network</b>
 
-  - [Setting Up A Virutal Private Network](https://github.com/MikeBib/Setting-up-a-VPN)
+  - [Setting Up A Virutal Private Network](https://github.com/Toliverd/Setting-up-a-Virtual-Private-Network-VPN-)
 
 <h2>🤳Connect with me:</h2>
 
@@ -24,3 +24,4 @@
 https://github.com/Toliverd/osTicket---Ticket-Lifecycle
 https://github.com/Toliverd/Implementing-Active-Directory-within-Azure-VMs
 https://github.com/Toliverd/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines
+https://github.com/Toliverd/Setting-up-a-Virtual-Private-Network-VPN-
