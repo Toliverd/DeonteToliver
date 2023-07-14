@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Configuration](https://github.com/MikeBib/osTicket-Configuration)
+  - [osTicket: Configuration](https://github.com/Toliverd/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeBib/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Implementing Active Directory within Azure VMs](https://github.com/MikeBib/Configuring-Active-Directory-within-Azure-VMs)
