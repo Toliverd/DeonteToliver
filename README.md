@@ -7,7 +7,7 @@
   - [osTicket: Configuration](https://github.com/Toliverd/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Toliverd/osTicket---Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Implementing Active Directory within Azure VMs](https://github.com/MikeBib/Configuring-Active-Directory-within-Azure-VMs)
+  - [Implementing Active Directory within Azure VMs](https://github.com/Toliverd/Implementing-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MikeBib/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/README.md)
 
 - <b>Virtual Private Network</b>
@@ -22,3 +22,4 @@
 
 [linkedin]: https://www.linkedin.com/in/mikebib/
 https://github.com/Toliverd/osTicket---Ticket-Lifecycle
+https://github.com/Toliverd/Implementing-Active-Directory-within-Azure-VMs
