@@ -20,8 +20,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/mikebib/
-https://github.com/Toliverd/osTicket---Ticket-Lifecycle
-https://github.com/Toliverd/Implementing-Active-Directory-within-Azure-VMs
-https://github.com/Toliverd/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines
-https://github.com/Toliverd/Setting-up-a-Virtual-Private-Network-VPN-
+[linkedin]: https://www.linkedin.com/in/deonte-toliver-a9832a282/
