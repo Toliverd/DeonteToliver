@@ -1,5 +1,5 @@
 # DeonteToliver
-<h1>Hi, I'm Deonte, an <a href="https://linkedin.com/in/deonte-toliver-a9832a282/">IT Professional!</a>💻</h1>
+<h1>Hi, I'm Deonte, an <a href="https://linkedin.com/in/deonte-toliver-a9832a282/">Data Scientist!</a>💻</h1>
 
 <h2> Information Technology Projects:</h2>
 
